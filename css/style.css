@@ -32,14 +32,14 @@ img:hover {
   transform: scale(1.05);
 }
 
-.amiable {
+.hogs {
   border: 1px solid #22aa44;
   box-shadow:  -1px 1px #22aa44, -2px 2px #22aa44, -3px 3px #22aa44, -4px 4px #22aa44, -5px 5px #22aa44;
   background-color: #44cc66;
 
 }
 
-h4.amiable {
+h4.hogs {
   background: linear-gradient(
     to right,
     #118833,
@@ -47,7 +47,7 @@ h4.amiable {
   );
 }
 
-h4.amiable:hover {
+h4.hogs:hover {
   background: linear-gradient(
     to right,
     #66ee88,
@@ -55,13 +55,13 @@ h4.amiable:hover {
   );
 }
 
-.indifferent {
+.hogs0 {
   border: 1px solid #aaaa00;
   box-shadow:  -1px 1px #aaaa00, -2px 2px #aaaa00, -3px 3px #aaaa00, -4px 4px #aaaa00, -5px 5px #aaaa00;
   background-color: #dddd22;
 }
 
-h4.indifferent {
+h4.hogs0 {
   background: linear-gradient(
     to right,
     #770,
@@ -69,7 +69,7 @@ h4.indifferent {
   );
 }
 
-h4.indifferent:hover {
+h4.hogs0:hover {
   background: linear-gradient(
     to right,
     #aa0,
@@ -77,13 +77,13 @@ h4.indifferent:hover {
   );
 }
 
-.dubious {
+.hogs1 {
   border: 1px solid #aa2222;
   box-shadow: -1px 1px #aa2222, -2px 2px #aa2222, -3px 3px #aa2222, -4px 4px #aa2222, -5px 5px #aa2222;
   background-color: #dd4444;
 }
 
-h4.dubious {
+h4.hogs1 {
   background: linear-gradient(
     to right,
     #700,
@@ -91,7 +91,7 @@ h4.dubious {
   );
 }
 
-h4.dubious:hover {
+h4.hogs1:hover {
   background: linear-gradient(
     to right,
     #a00,
